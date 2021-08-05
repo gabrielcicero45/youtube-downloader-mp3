@@ -1,5 +1,6 @@
-#Download your favorite musics from youtube with python 
+# Download your favorite musics from youtube with python 
 
--Requirementes
-##pip install pytube
-##pip install moviepy
+-Requirements
+# pip install pytube
+
+# pip install moviepy
